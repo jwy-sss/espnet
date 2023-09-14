@@ -1,5 +1,5 @@
 <div align="left"><img src="doc/image/espnet_logo1.png" width="550"/></div>
-
+1
 # ESPnet: end-to-end speech processing toolkit
 
 |system/pytorch ver.|1.11.0|1.12.1|1.13.1|2.0.1|
